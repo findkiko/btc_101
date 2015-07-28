@@ -4,7 +4,7 @@ These are (a quick hack at) html5 slides for a bitcoin-101 talk.
 
 They are based on the stack repo: https://github.com/mbostock/stack
 
-I might clean these up at some point in the future, but as-is I thought the collation of images might be useful to people doing similar talks. Some of the graphics are "borrowed" from the textbook "Mastering Bitcoin" which can be found here: https://github.com/aantonop/bitcoinbook
+I might clean these up at some point in the future, but as-is I thought the collection of images might be useful to people doing similar talks. Some of the graphics are "borrowed" from the textbook "Mastering Bitcoin" which can be found here: https://github.com/aantonop/bitcoinbook
 
 Included but unused images are:
 
