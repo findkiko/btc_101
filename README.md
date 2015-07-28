@@ -1,4 +1,4 @@
-** Bitcoin 101 Slide Deck **
+## Bitcoin 101 Slide Deck ##
 
 These are (a quick hack at) html5 slides for a bitcoin-101 talk.
 
